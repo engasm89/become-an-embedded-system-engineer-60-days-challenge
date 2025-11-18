@@ -1,3 +1,11 @@
+/*
+ * Course: Become An Embedded System Engineer 60 Days Challenge
+ * Platform: Embedded Systems
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include "freertos/FreeRTOS.h" // FreeRTOS
 #include "freertos/task.h" // Tasks
 #include "driver/gpio.h" // GPIO
